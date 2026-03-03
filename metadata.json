@@ -1,0 +1,5 @@
+{
+  "name": "VetLeave Manager",
+  "description": "A veterinary leave management system with GP coverage validation, approval workflows, and simulated Google Sheets integration.",
+  "requestFramePermissions": []
+}
